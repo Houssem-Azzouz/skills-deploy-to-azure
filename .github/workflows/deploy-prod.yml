@@ -7,12 +7,8 @@ on:
 
 env:
   IMAGE_REGISTRY_URL: ghcr.io
-  ###############################################
-  ### Replace <username> with GitHub username ###
-  ###############################################
-  DOCKER_IMAGE_NAME: <username>-azure-ttt
-  AZURE_WEBAPP_NAME: <username>-ttt-app
-  ###############################################
+  DOCKER_IMAGE_NAME: Houssem-Azzouz-azure-ttt
+  AZURE_WEBAPP_NAME: Houssem-Azzouz-ttt-app
 
 jobs:
   build:
