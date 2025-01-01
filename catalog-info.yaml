@@ -5,7 +5,9 @@ metadata:
   annotations:
     github.com/project-slug: Houssem-Azzouz/skills-deploy-to-azure
     backstage.io/kubernetes-id: skills-deploy-to-azure
-    backstage.io/techdocs-ref: https://asharq.com/
+  links:
+    - url: https://asharq.com/
+      title: Doc
 spec:
   type: other
   lifecycle: unknown
