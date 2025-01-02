@@ -9,6 +9,6 @@ metadata:
     - url: https://asharq.com/
       title: Doc
 spec:
-  type: other
+  type: service
   lifecycle: unknown
-  owner: guests
+  owner: Houssem-Azzouz
