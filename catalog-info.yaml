@@ -11,4 +11,4 @@ metadata:
 spec:
   type: service
   lifecycle: unknown
-  owner: Houssem-Azzouz
+  owner: user:default/houssem-azzouz
