@@ -5,6 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: Houssem-Azzouz/skills-deploy-to-azure
     backstage.io/kubernetes-id: hello-minikube
+    backstage.io/kubernetes-namespace: default
   links:
     - url: https://asharq.com/
       title: Doc
